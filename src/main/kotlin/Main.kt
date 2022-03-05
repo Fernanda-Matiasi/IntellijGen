@@ -18,5 +18,5 @@ fun main() {
     println(p1  + ": Sai andando então, arrumo nada! " )
     println(p2  + ": Já eh Rogerin nao queria ouvir mesmo, tó nem manda bem!!!! " )
 
-
+        .
 }
